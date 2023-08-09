@@ -1,0 +1,1 @@
+{"version":3,"file":"auth-confirm-register-account-input.dto.d.ts","sourceRoot":"","sources":["../../../../../src/modules/auth/dtos/auth-confirm-register-account-input.dto.ts"],"names":[],"mappings":"AAEA,qBAAa,+BAA+B;IAI1C,WAAW,EAAE,MAAM,CAAC;IAKpB,YAAY,EAAE,MAAM,CAAC;IAKrB,KAAK,EAAE,MAAM,CAAC;CACf"}

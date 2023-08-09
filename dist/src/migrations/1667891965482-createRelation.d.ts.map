@@ -1,0 +1,1 @@
+{"version":3,"file":"1667891965482-createRelation.d.ts","sourceRoot":"","sources":["../../../src/migrations/1667891965482-createRelation.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,kBAAkB,EAAE,WAAW,EAAE,MAAM,SAAS,CAAC;AAE1D,qBAAa,2BAA4B,YAAW,kBAAkB;IACvD,EAAE,CAAC,WAAW,EAAE,WAAW,GAAG,OAAO,CAAC,IAAI,CAAC;IAwG3C,IAAI,CAAC,WAAW,EAAE,WAAW,GAAG,OAAO,CAAC,IAAI,CAAC;CA+B3D"}

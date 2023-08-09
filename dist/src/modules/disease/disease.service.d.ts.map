@@ -1,0 +1,1 @@
+{"version":3,"file":"disease.service.d.ts","sourceRoot":"","sources":["../../../../src/modules/disease/disease.service.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,iBAAiB,EAAE,MAAM,sBAAsB,CAAC;AACzD,OAAO,EAAE,gBAAgB,EAAE,MAAM,2BAA2B,CAAC;AAE7D,qBACa,cAAc;IACb,OAAO,CAAC,QAAQ,CAAC,UAAU;gBAAV,UAAU,EAAE,iBAAiB;IAEpD,oBAAoB,IAAI,OAAO,CAAC,gBAAgB,EAAE,CAAC;CAK1D"}

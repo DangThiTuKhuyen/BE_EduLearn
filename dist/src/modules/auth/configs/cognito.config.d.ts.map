@@ -1,0 +1,1 @@
+{"version":3,"file":"cognito.config.d.ts","sourceRoot":"","sources":["../../../../../src/modules/auth/configs/cognito.config.ts"],"names":[],"mappings":"AAEA,qBACa,UAAU;IACd,UAAU,EAAE,MAAM,CAAoC;IACtD,QAAQ,EAAE,MAAM,CAAiC;IACjD,MAAM,EAAE,MAAM,CAA8B;IAC5C,SAAS,SAAyG;CAC1H"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"medical-center.service.d.ts","sourceRoot":"","sources":["../../../../src/modules/medical-center/medical-center.service.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,sBAAsB,EAAE,MAAM,kCAAkC,CAAC;AAC1E,OAAO,EAAE,uBAAuB,EAAE,MAAM,6BAA6B,CAAC;AAEtE,qBACa,oBAAoB;IACnB,OAAO,CAAC,QAAQ,CAAC,UAAU;gBAAV,UAAU,EAAE,uBAAuB;IAE1D,OAAO,IAAI,OAAO,CAAC,sBAAsB,EAAE,CAAC;CAInD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"disease.controller.d.ts","sourceRoot":"","sources":["../../../../src/modules/disease/disease.controller.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AACnD,OAAO,EAAE,gBAAgB,EAAE,MAAM,2BAA2B,CAAC;AAE7D,qBACa,iBAAiB;IAChB,OAAO,CAAC,QAAQ,CAAC,cAAc;gBAAd,cAAc,EAAE,cAAc;IAI3D,oBAAoB,IAAI,OAAO,CAAC,gBAAgB,EAAE,CAAC;CAGpD"}
